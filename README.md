@@ -1,5 +1,5 @@
 # SBSPS-Challenge-5551-Super-Predictor-of-Indian-Premier-League-IPL-
-Expected Solution : To create dashboard with following cases.
+**Expected Solution : To create dashboard with following cases.**
 1. To find the team that won the most number of matches in the entire IPL.
 2. To find the team that lost the most number of matches in the entire IPL.
 3. Does winning a toss increase the chances of victory.
@@ -12,14 +12,14 @@ Expected Solution : To create dashboard with following cases.
 10. Which team won the most matches while batting second.
 11. List of teams which have won matches by most runs cumulatively
 
-Things that we have added.
-Total Runs scored in entire IPL, wickets, Over and total matches played.
-Players who scored highest runs.
-Total runs scored by each team.
-Top 10 highest wicket keepers in IPL.
-Batsman scored maximum runs in IPL
-Team that won most number of toss.
-Number of times team winning toss has won the match.
+**Things that we have added.<br />**
+<br />Total Runs scored in entire IPL, wickets, Over and total matches played.<br />
+Players who scored highest runs.<br />
+Total runs scored by each team.<br />
+Top 10 highest wicket keepers in IPL.<br />
+Batsman scored maximum runs in IPL<br />
+Team that won most number of toss.<br />
+Number of times team winning toss has won the match.<br />
 
 
 
